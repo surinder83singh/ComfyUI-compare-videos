@@ -1,5 +1,6 @@
 [project]
-name = "Compare videos"
+id = "Compare_videos"
+name = "Compare_videos"
 description = "A custom ComfyUI extension to compare two video/image sequences via wipe preview."
 version = "1.0.0"
 license = {file = "LICENSE"}
