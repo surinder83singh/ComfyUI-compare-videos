@@ -1,0 +1,19 @@
+[project]
+name = "Compare videos"
+description = "A custom ComfyUI extension to compare two video/image sequences via wipe preview."
+version = "1.0.0"
+license = {file = "LICENSE"}
+keywords = ["comfyui", "video", "comparison", "wipe preview"]
+
+authors = [
+    {name = "Surinder Singh", email = "surinder83singh@gmail.com"}
+]
+
+[project.urls]
+Repository = "https://github.com/surinder83singh/ComfyUI-compare-videos"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "@matoo"
+DisplayName = "Compare Videos"
+Icon = "icon.png"

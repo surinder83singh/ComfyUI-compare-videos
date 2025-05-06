@@ -199,3 +199,15 @@ Apache License
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+
+===============================
+THIRD-PARTY SOFTWARE NOTICE
+===============================
+
+This project includes code adapted from the following third-party project:
+
+- Bjornulf_custom_nodes
+  Copyright (c)
+  Licensed under the MIT License.
+  https://github.com/justUmen/Bjornulf_custom_nodes
